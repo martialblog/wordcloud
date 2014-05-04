@@ -1,0 +1,21 @@
+body {
+  font-family: sans-serif;
+  background:#ccc;
+}
+#main {
+  width:600px;
+  margin: auto;
+  position: absolute;
+  top: 0; left: 0; bottom: 0; right: 0;
+  text-align:center;
+  padding:10px;
+  background:#fff
+}
+#list {
+  font-size:1em;
+  position:absolute;
+  top:0;
+  left:0;
+  background:#fff;
+  visibility:visible;
+}

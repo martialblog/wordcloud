@@ -1,0 +1,53 @@
+body
+{
+  overflow: hidden;
+}
+
+.init-spacing
+{
+  margin-top: 250px;
+}
+
+#submission-form input, #submission-form .button
+{
+  height: 100px;
+}
+
+#submission-form input
+{
+  font-size: 4rem;
+  
+  border-radius: 5px;  
+}
+
+#submission-form .button
+{
+  font-size: 2rem;
+  line-height: 6.125rem;
+  
+  border-radius: 0 5px 5px 0;
+}
+
+.alert
+{
+  font-size: 30px;
+  color: white;
+
+  background-color: red;
+  border-radius: 5px;
+  
+  padding: 30px;
+  margin-bottom: 15px;
+}
+
+.success
+{
+  font-size: 30px;
+  color: white;
+
+  background-color: #0B0;
+  border-radius: 5px;
+  
+  padding: 30px;
+  margin-bottom: 15px;
+}

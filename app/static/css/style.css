@@ -1,0 +1,44 @@
+body {
+  font-family: sans-serif;
+  background:#ccc;
+}
+#main {
+  width:600px;
+  height:200px;
+  margin: auto;
+  position: absolute;
+  top: 0; left: 0; bottom: 0; right: 0;
+  text-align:center;
+  padding:10px;
+  background:#fff
+}
+.desc {
+  font-size:2em;
+}
+input
+{
+  font-size:2em;
+  color: #444;
+  background: #E0EEEE;
+  border: 1px solid #eee
+}
+.submit
+{
+  font-size:2em;
+  color: #000;
+  border: 1px solid #000
+} 
+#alerts {
+  font-size:1em;
+  margin:5px;
+  color:#CD5C5C;
+}
+#list {
+  font-size:10px;
+  padding:3px;
+  position:absolute;
+  top:0;
+  left:0;
+  background:#fff;
+  visibility:visible;
+}
